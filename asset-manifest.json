@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simple-dapp/static/css/main.a3487775.chunk.css",
-    "main.js": "/simple-dapp/static/js/main.7c0c000a.chunk.js",
-    "main.js.map": "/simple-dapp/static/js/main.7c0c000a.chunk.js.map",
+    "main.js": "/simple-dapp/static/js/main.5b46d658.chunk.js",
+    "main.js.map": "/simple-dapp/static/js/main.5b46d658.chunk.js.map",
     "runtime-main.js": "/simple-dapp/static/js/runtime-main.f7624dd0.js",
     "runtime-main.js.map": "/simple-dapp/static/js/runtime-main.f7624dd0.js.map",
     "static/js/2.7b013f7d.chunk.js": "/simple-dapp/static/js/2.7b013f7d.chunk.js",
     "static/js/2.7b013f7d.chunk.js.map": "/simple-dapp/static/js/2.7b013f7d.chunk.js.map",
     "index.html": "/simple-dapp/index.html",
-    "precache-manifest.905e3cb4fc8be9178f048581362128ba.js": "/simple-dapp/precache-manifest.905e3cb4fc8be9178f048581362128ba.js",
+    "precache-manifest.e26101ddb45087c6b012dafec366f623.js": "/simple-dapp/precache-manifest.e26101ddb45087c6b012dafec366f623.js",
     "service-worker.js": "/simple-dapp/service-worker.js",
     "static/css/main.a3487775.chunk.css.map": "/simple-dapp/static/css/main.a3487775.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f7624dd0.js",
     "static/js/2.7b013f7d.chunk.js",
     "static/css/main.a3487775.chunk.css",
-    "static/js/main.7c0c000a.chunk.js"
+    "static/js/main.5b46d658.chunk.js"
   ]
 }
