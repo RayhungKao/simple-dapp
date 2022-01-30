@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/simple-dapp/static/css/main.a3487775.chunk.css",
-    "main.js": "/simple-dapp/static/js/main.5b46d658.chunk.js",
-    "main.js.map": "/simple-dapp/static/js/main.5b46d658.chunk.js.map",
+    "main.js": "/simple-dapp/static/js/main.a749181b.chunk.js",
+    "main.js.map": "/simple-dapp/static/js/main.a749181b.chunk.js.map",
     "runtime-main.js": "/simple-dapp/static/js/runtime-main.f7624dd0.js",
     "runtime-main.js.map": "/simple-dapp/static/js/runtime-main.f7624dd0.js.map",
-    "static/js/2.7b013f7d.chunk.js": "/simple-dapp/static/js/2.7b013f7d.chunk.js",
-    "static/js/2.7b013f7d.chunk.js.map": "/simple-dapp/static/js/2.7b013f7d.chunk.js.map",
+    "static/js/2.30b13e8a.chunk.js": "/simple-dapp/static/js/2.30b13e8a.chunk.js",
+    "static/js/2.30b13e8a.chunk.js.map": "/simple-dapp/static/js/2.30b13e8a.chunk.js.map",
     "index.html": "/simple-dapp/index.html",
-    "precache-manifest.e26101ddb45087c6b012dafec366f623.js": "/simple-dapp/precache-manifest.e26101ddb45087c6b012dafec366f623.js",
+    "precache-manifest.bda77f0606e0aecd0b4358199f3e42c8.js": "/simple-dapp/precache-manifest.bda77f0606e0aecd0b4358199f3e42c8.js",
     "service-worker.js": "/simple-dapp/service-worker.js",
     "static/css/main.a3487775.chunk.css.map": "/simple-dapp/static/css/main.a3487775.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f7624dd0.js",
-    "static/js/2.7b013f7d.chunk.js",
+    "static/js/2.30b13e8a.chunk.js",
     "static/css/main.a3487775.chunk.css",
-    "static/js/main.5b46d658.chunk.js"
+    "static/js/main.a749181b.chunk.js"
   ]
 }
