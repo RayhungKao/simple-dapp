@@ -44,9 +44,9 @@ truffle and react
     $truffle develop
     $compile    //inside truffle console
     $migrate    
-    $test       //by default it runs $test ./test/<filename>.sol
+    $test       //by default it runs all test files
 ```
-or directly run
+or run specific test file
 ```
     $truffle test ./test/simplestorage.js       //for js test files
     $truffle test ./test/TestSimpleStorage.sol  //for sol test files
